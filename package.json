@@ -6,6 +6,9 @@
   "author": "kuro-kuroite <26164343+kuro-kuroite@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
+    "@babel/cli": "^7.1.5",
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
     "electron": "^3.0.10"
   }
 }
