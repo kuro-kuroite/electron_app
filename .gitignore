@@ -142,3 +142,5 @@ fabric.properties
 .idea/httpRequests
 
 
+# JetBrains IDE files
+.idea/
