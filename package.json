@@ -1,0 +1,17 @@
+{
+  "name": "electron_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kuro-kuroite/electron_app.git",
+  "author": "kuro-kuroite <26164343+kuro-kuroite@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron dist/index.js"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.5",
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "electron": "^3.0.10"
+  }
+}
